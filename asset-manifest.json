@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fbreact/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/fbreact/static/js/main.33dd4a67.chunk.js",
-    "main.js.map": "/fbreact/static/js/main.33dd4a67.chunk.js.map",
+    "main.js": "/fbreact/static/js/main.b1a0af45.chunk.js",
+    "main.js.map": "/fbreact/static/js/main.b1a0af45.chunk.js.map",
     "runtime-main.js": "/fbreact/static/js/runtime-main.192ca1fc.js",
     "runtime-main.js.map": "/fbreact/static/js/runtime-main.192ca1fc.js.map",
     "static/js/2.22265f19.chunk.js": "/fbreact/static/js/2.22265f19.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.192ca1fc.js",
     "static/js/2.22265f19.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.33dd4a67.chunk.js"
+    "static/js/main.b1a0af45.chunk.js"
   ]
 }
